@@ -49,3 +49,7 @@ Requires the Xcode Command Line Tools (`xcode-select --install`).
 The version number comes from `CFBundleShortVersionString` in `Info.plist`.
 
 > **Note:** builds are ad-hoc signed, and macOS ties privacy permissions to an app's signature, so each new build has to be granted permissions again. The permissions walkthrough reappears automatically after a rebuild.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
